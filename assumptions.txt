@@ -1,0 +1,2 @@
+1. First and only Stakeholder account would be created as part of the user Seeder.
+2. Registrations would not be allowed as users would be managed internally.
